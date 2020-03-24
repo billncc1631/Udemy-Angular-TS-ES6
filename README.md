@@ -14,4 +14,4 @@ Instalacao angular no Ubuntu e derivados
 https://tecadmin.net/install-angular-on-ubuntu/
 
 
-git config credential.helper store
+git config credential.helper store t2
