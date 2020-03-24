@@ -5,3 +5,10 @@ O Curso de Desenvolvimento WEB com ES6, TypeScript e Angular 4 possui um grupo n
 Vale lembrar porém que o grupo não é dedicado ao suporte de dúvidas do curso, as dúvidas deverão ser postadas aqui no fórum da Udemy normalmente.
 
 Link do grupo: https://www.facebook.com/groups/1747912361893132/
+
+
+-----------------------------------------------------
+Instalacao angular no Ubuntu e derivados
+-----------------------------------------------------
+
+https://tecadmin.net/install-angular-on-ubuntu/
